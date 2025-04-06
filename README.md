@@ -1,1 +1,1 @@
-# GAN_Model for Floor Layout Plan
+# GAN Model for Floor Layout Plan
